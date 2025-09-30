@@ -13,3 +13,5 @@
 ***hola***
 
 <sup>hola</sup>
+
+[buscador](http://www.google.com)
