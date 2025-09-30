@@ -6,7 +6,7 @@
 
 ~~tachado~~
 
-<sub>hola</sub>
+<sub>pequeño</sub>
 
 **hola soy ~~adrian~~**
 
