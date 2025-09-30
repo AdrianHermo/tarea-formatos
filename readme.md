@@ -4,7 +4,7 @@
 
 **negrita**
 
-~~hola~~
+~~tachado~~
 
 <sub>hola</sub>
 
