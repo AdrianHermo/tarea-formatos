@@ -8,7 +8,7 @@
 
 <sub>pequeño</sub>
 
-**hola soy ~~adrian~~**
+**dos ~~cosas~~**
 
 ***hola***
 
