@@ -1,6 +1,6 @@
 # Influencia de las IAs en el aprendizaje humano
 
-*hola*
+*cursiva*
 
 **hola**
 
