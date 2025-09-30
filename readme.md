@@ -2,7 +2,7 @@
 
 *cursiva*
 
-**hola**
+**negrita**
 
 ~~hola~~
 
