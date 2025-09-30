@@ -12,7 +12,7 @@
 
 ***grande***
 
-<sup>hola</sup>
+<sup>pequeñito</sup>
 
 [buscador](http://www.google.com)
 
